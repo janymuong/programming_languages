@@ -14,3 +14,7 @@ Run the calculator as a script with no arguments;
 ```bash
 ./simple_calc.py
 ```
+
+---
+> Environment:  
+>> GNU Linux - Ubuntu 20.04
