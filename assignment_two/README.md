@@ -9,6 +9,19 @@ outputs.
 splitting the bill. After getting these user input values your app should calculate the
 amount each person should pay and display the answer rounded to two decimal points.
 
+### Run the AGE calculator Script
+> PART A: `Data Types` Recap  
+> Run the script. The output in command-line looks like what is printed below.
+
+```bash
+mu-o@HP:~/cs_jkuat/programming_languages/assignment_two$ ./calc_v2_0.py
+Please enter your name: Levi Ackerman
+Hello, Levi Ackerman. Welcome to my AGE calculator :)
+Please enter your date of birth (YYYY-MM-DD): 1995-12-25
+
+Your AGE is 28 years, 10 months, and 25 days.
+mu-o@HP:~/cs_jkuat/programming_languages/assignment_two$
+```
 
 ## Part B: `Control Flow`
 > INFO   
