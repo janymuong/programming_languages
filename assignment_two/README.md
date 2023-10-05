@@ -10,8 +10,9 @@ splitting the bill. After getting these user input values your app should calcul
 amount each person should pay and display the answer rounded to two decimal points.
 
 ### Run the AGE calculator Script
-> PART A: `Data Types` Recap  
-> Run the script. The output in command-line looks like what is printed below.
+> PART A: `Data Types` Recap - [instruction 1]()  
+> Run the script.  
+>> The output in command-line looks like what is printed below.  
 
 ```bash
 mu-o@HP:~/cs_jkuat/programming_languages/assignment_two$ ./calc_v2_0.py
