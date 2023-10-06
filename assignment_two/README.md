@@ -22,6 +22,7 @@ inform the person if they are underweight, Normal weight or Overweight.
 not.
 
 <br>
+
 ---
 ### Run the AGE calculator Script
 > PART A: `Data Types` Recap - [instruction 1]()  
