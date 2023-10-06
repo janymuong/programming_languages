@@ -12,7 +12,8 @@ outputs.
 2. Create a tip calculator that takes in the total bill amount, the tip amount as a percentage of the total bill amount (10,12 or 15 should be the options) and the number of people 
 splitting the bill. After getting these user input values your app should calculate the
 amount each person should pay and display the answer rounded to two decimal points.  
-<br>
+
+
 
 ## Part B: `Control Flow`
 Read through the content on control flow and attempt the following code challenges.  
@@ -22,7 +23,7 @@ inform the person if they are underweight, Normal weight or Overweight.
 4. Create an app that takes an year as the input and informs you whether it is a leap year or 
 not.
 
-
+<br><br>
 ---
 ### Run the AGE calculator Script
 > PART A: `Data Types` Recap - [instruction 1]()  
@@ -38,7 +39,6 @@ Please enter your date of birth (YYYY-MM-DD): 1995-12-25
 Your AGE is 27 years, 2 months, and 6 days.
 mu-o@HP:~/cs_jkuat/programming_languages/assignment_two$
 ```
-<br><br>
 
 
 ### Run the TIP calculator Script
