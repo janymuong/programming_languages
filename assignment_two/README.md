@@ -6,9 +6,7 @@
 
 ## PART A: `Data Types` Recap 
 
-1. Adjust your [../simple_calc/simple_calc.py](`simple calculator`) app to a version that takes the year of birth of a person and 
-calculates their age in years, months and days respectively. Your app should give all three 
-outputs.
+1. Adjust your [`simple calculator`](../simple_calc/simple_calc.py) app to a version that takes the year of birth of a person and calculates their age in years, months and days respectively. Your app should give all three outputs.  
 2. Create a tip calculator that takes in the total bill amount, the tip amount as a percentage of the total bill amount (10,12 or 15 should be the options) and the number of people 
 splitting the bill. After getting these user input values your app should calculate the
 amount each person should pay and display the answer rounded to two decimal points.  
