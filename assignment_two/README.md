@@ -21,7 +21,7 @@ inform the person if they are underweight, Normal weight or Overweight.
 4. Create an app that takes an year as the input and informs you whether it is a leap year or 
 not.
 
-<br><br>
+<br>
 ---
 ### Run the AGE calculator Script
 > PART A: `Data Types` Recap - [instruction 1]()  
