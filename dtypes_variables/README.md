@@ -5,7 +5,7 @@
 
 ### Spec
 > Lecturer's Prompt:  
->> Describe the role of variables and data types in programming, and how they are used to store and manipulate data.
+> Describe the role of variables and data types in programming, and how they are used to store and manipulate data.
 
 ### Based on: 
 ```bash 
@@ -27,8 +27,12 @@ x86 Assembly:
 $ nasm assembly_lang.asm
 $ cat assembly_lang
 ...
-$```
+$
+```
 
-For C: Compile and run. 
+For C: Compile with gcc and run executable. 
 
-Python: `chmod +x python_dtypes.py && ./python_dtypes.py`
+Python: 
+```bash
+chmod +x python_dtypes.py && ./python_dtypes.py
+```
