@@ -1,11 +1,11 @@
 # Python Exceptions
 
 > ### `Exceptions and Handling them :)`:  
-> Implementation of `exception handdling` in [Simple Calc](../oop_simplecalc/oop_simple_calc.py).  
+> Implementation of `exception handdling` in previous OOP - [Simple Calc](../oop_simplecalc/oop_simple_calc.py).  
 > - AS IN: `try`, `except`, `finally`
 
 
-## Run the file as a Python script in command-line;
+## Run the [file](except_simplecalc.py) as a Python script in command-line;
 
 - First off, give the effective user executable file permission: 
 ```bash 
