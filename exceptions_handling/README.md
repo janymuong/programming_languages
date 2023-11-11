@@ -1,8 +1,8 @@
 # Python Exceptions
 
 > ### `Exceptions and Handling them :)`:  
-> Implentation of `exception handdling` in [Simple Calc](../oop_simplecalc/oop_simple_calc.py).  
-> - `try`, `except`, `finally`
+> Implementation of `exception handdling` in [Simple Calc](../oop_simplecalc/oop_simple_calc.py).  
+> - AS IN: `try`, `except`, `finally`
 
 
 ## Run the file as a Python script in command-line;
